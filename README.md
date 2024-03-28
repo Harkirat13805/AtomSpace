@@ -26,9 +26,9 @@ Built with Next.js, TailwindCSS, and TypeScript.
 
 👉 **Appealing Hero Section**: Visually striking hero section that captures attention and sets the tone for the website
 
-👉 **Section**: Showcase various camps in a dedicated section, allowing users to explore different options.
+👉 **Section**: Showcase  dedicated section, allowing users to explore different options.
 
-👉 **Section**: A compelling travel guide section with informative content and captivating visuals.
+👉 **Section**: captivating visuals.
 
 👉 **Feature Section**: A complex and feature-rich section offering advanced functionalities or in-depth information.
 
